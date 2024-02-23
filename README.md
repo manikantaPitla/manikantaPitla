@@ -1,4 +1,4 @@
-Hey there! 👋 I'm [Manikanta Pitla](link), a Full Stack Developer with a strong foundation in front-end and responsive frameworks. My passion for technology has driven me to continuously learn and grow in this dynamic field. With a comprehensive understanding of both front-end and back-end development, I am dedicated to pushing the boundaries of what is possible in the digital world.
+Hey there! 👋 I'm `Manikanta Pitla` a Full Stack Developer with a strong foundation in front-end and responsive frameworks. My passion for technology has driven me to continuously learn and grow in this dynamic field. With a comprehensive understanding of both front-end and back-end development, I am dedicated to pushing the boundaries of what is possible in the digital world.
 
 **What I can do ?**
 
@@ -6,4 +6,4 @@ Hey there! 👋 I'm [Manikanta Pitla](link), a Full Stack Developer with a stron
 
 **Available on**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]("https://www.linkedin.com/in/manikanta8/") [![Mail](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white)]("pitlamanikanta81@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manikanta8/) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white)](pitlamanikanta81@gmail.com)
