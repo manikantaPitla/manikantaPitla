@@ -6,4 +6,4 @@ Hey there! 👋 I'm `Manikanta Pitla` a Full Stack Developer with a strong found
 
 **Available on**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manikanta8/) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white)](pitlamanikanta81@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manikanta8/) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pitlamanikanta81@gmail.com "Connect via Email")
