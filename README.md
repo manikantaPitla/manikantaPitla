@@ -52,12 +52,3 @@ Hey there! 👋 I'm `Manikanta Pitla` a Full Stack Developer with a strong found
 </div>
 
 
-<!---
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manikanta8/) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pitlamanikanta81@gmail.com "Connect via Email")
----->
-
-
-
-<br/>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manikantaPitla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
