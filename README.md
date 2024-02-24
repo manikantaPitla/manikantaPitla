@@ -42,14 +42,15 @@ Hey there! 👋 I'm `Manikanta Pitla` a Full Stack Developer with a strong found
 **Reach out to me via**
 
 
-<div align="left>
-  <a href="https://www.linkedin.com/in/manikanta8/" target="_blank">
+<div align="left">
+  <a href='https://linkedin.com/in/manikanta8/' target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:pitlamanikanta81@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
 
 <!---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manikanta8/) [![Mail](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pitlamanikanta81@gmail.com "Connect via Email")
