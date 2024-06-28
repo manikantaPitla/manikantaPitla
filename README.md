@@ -43,7 +43,7 @@ Hey there! 👋 I'm `Manikanta Pitla` a Full Stack Developer with a strong found
 
 
 <div >
-  <a href="https://linkedin.com/in/manikanta8/" target="_blank">
+  <a href="https://linkedin.com/in/manikantapitla/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:pitlamanikanta81@gmail.com" target="_blank">
