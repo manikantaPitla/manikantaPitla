@@ -16,8 +16,6 @@ Hey there! 👋 I'm `Manikanta Pitla` a Full Stack Developer with a strong found
 
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo"  />
 
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
 
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
