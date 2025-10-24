@@ -63,13 +63,6 @@ I'm **`Manikanta Pitla`**, a passionate **Full Stack Developer** with a strong f
   
 </div>
 
----
-
-### 💡 **Fun Facts**
-- 🔭 I’m currently working on innovative web applications with modern tech stacks  
-- 🌱 I’m exploring **Next.js**, **React Native**, and **AWS Cloud Services**  
-- 💬 Ask me about **React, Node.js, REST APIs, or UI Design**  
-- ⚡ Fun fact: I love building side projects that solve real problems!  
 
 ---
 
