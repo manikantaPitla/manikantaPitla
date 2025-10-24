@@ -1,5 +1,5 @@
 ## 👋 Hey there!
-I'm **`Manikanta Pitla`**, a Full Stack Developer with a strong foundation in front-end and responsive frameworks. My passion for technology drives me to continuously learn and grow in this dynamic field. With a comprehensive understanding of both front-end and back-end development, I’m dedicated to pushing the boundaries of what’s possible in the digital world.
+I'm **`Manikanta Pitla`**, a passionate **Full Stack Developer** with a strong foundation in front-end and responsive frameworks. My love for technology drives me to continuously learn and innovate. With hands-on experience in both **frontend and backend** development, I’m dedicated to crafting scalable, high-performance, and user-friendly applications.
 
 ---
 
@@ -41,12 +41,52 @@ I'm **`Manikanta Pitla`**, a Full Stack Developer with a strong foundation in fr
 
 ---
 
+### 📊 **GitHub Stats & Activity**
+
+<div align="center">
+  
+  ![Manikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikantapitla&show_icons=true&theme=radical&count_private=true&hide_border=true)
+  
+  ![Manikanta's GitHub Streak](https://streak-stats.demolab.com?user=manikantapitla&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manikantapitla&layout=compact&theme=radical&hide_border=true)
+  
+</div>
+
+---
+
+### 🏆 **GitHub Achievements**
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=manikantapitla&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
+### 💡 **Fun Facts**
+- 🔭 I’m currently working on innovative web applications with modern tech stacks  
+- 🌱 I’m exploring **Next.js**, **React Native**, and **AWS Cloud Services**  
+- 💬 Ask me about **React, Node.js, REST APIs, or UI Design**  
+- ⚡ Fun fact: I love building side projects that solve real problems!  
+
+---
+
 ### 📬 **Reach Out to Me**
-<div>
+<div align="center">
   <a href="https://linkedin.com/in/manikantapitla/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:pitlamanikanta81@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  
+  💻 *"Code. Create. Innovate. Repeat."* 🚀
+  
 </div>
